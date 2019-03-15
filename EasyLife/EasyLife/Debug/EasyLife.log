@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  EasyLife.cpp
+g:\vs\easylife\easylife\easylife\easylife.cpp(135): warning C4101: “y”: 未引用的局部变量
+  EasyLife.vcxproj -> G:\vs\EasyLife\EasyLife\Debug\EasyLife.exe
